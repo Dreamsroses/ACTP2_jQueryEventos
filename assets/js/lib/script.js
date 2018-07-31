@@ -26,7 +26,6 @@ $( document ).ready(function() {
   $('.create__profile .create__img').attr('src', image);
     //console.log("change" , $(this).val());
 
-  });
-
+  		});
 	});
 });
